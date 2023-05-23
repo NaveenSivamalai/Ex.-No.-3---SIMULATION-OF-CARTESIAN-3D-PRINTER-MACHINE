@@ -79,6 +79,7 @@ It is responsible for support and stability of y axis frame.and also z axis.
 The Y-axis base is responsible for providing stability and support to the entire printer's structure, including the Y-axis frame, the print bed, and the printed object.
 
 ### Z-axis
+![z](https://github.com/NaveenSivamalai/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/123792574/2d6ee9eb-37bc-4841-8638-a58383516928)
 
 
 #### Z-Axis Rod :
@@ -107,8 +108,14 @@ It holds spool
 
 
 
+### complete assembly
+
+![com](https://github.com/NaveenSivamalai/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/123792574/d43f0e45-b87f-4a3c-82bd-6b6afc66506f)
 
 
+### playing with axes
+
+![play](https://github.com/NaveenSivamalai/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/123792574/af421eb3-171a-40c3-a0f6-5384ba9d6633)
 
 
 
