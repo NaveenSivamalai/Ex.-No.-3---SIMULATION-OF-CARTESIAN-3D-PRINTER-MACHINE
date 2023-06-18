@@ -120,11 +120,8 @@ It holds spool
 
 
 
-
-## Output:
-
-### Name: 
-### Register Number:
+### Name: NAVEEN S
+### Register Number: 212222110030
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
